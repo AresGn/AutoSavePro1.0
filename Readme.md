@@ -28,10 +28,9 @@ AutoSavePro est une application de bureau simple mais puissante conçue pour aut
    python main.py
    ```
 2. Dans l'interface :
-   - Cliquez sur "Parcourir" pour sélectionner l'application à surveiller.
    - Entrez l'intervalle de sauvegarde souhaité en minutes.
    - Cliquez sur "Démarrer" pour commencer la surveillance.
-3. L'application simulera Ctrl+S à l'intervalle spécifié lorsque l'application sélectionnée est active.
+3. L'application simulera Ctrl+S à l'intervalle spécifié dans l'applicatio active sur votre espace de travail par exemple Bloc Notes.
 4. Les logs d'activité s'afficheront dans la zone de texte de l'interface.
 
 ## Structure du Projet
