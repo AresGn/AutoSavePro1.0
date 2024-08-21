@@ -1,0 +1,2 @@
+pyautogui==0.9.53
+psutil==5.8.0
